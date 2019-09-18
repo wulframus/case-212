@@ -130,7 +130,6 @@
 | Давид Френкель                     | Fullstack Developer                     |
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
-| Ялунин Александр                   | Backend Developer                       |
 | Алина Ковтун                       | FrontEnd Developer, Nativeroll, СПб     |
 | Зайцев Дмитрий                     | Android developer                       |
 | Альберт Фазуллин                   | Software Engineer, Казань               |
@@ -149,3 +148,4 @@
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Николай Дубинин                    | IT Engineer, Москва                     |
